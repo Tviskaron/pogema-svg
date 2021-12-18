@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="500" height="500" viewBox="0 -1600 1600 1600">
+<defs>
+</defs>
+<circle cx="50" cy="-150" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="50" cy="-850" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="50" cy="-1050" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.1" />
+</circle>
+<circle cx="50" cy="-1450" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.1" />
+</circle>
+<circle cx="150" cy="-50" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="150" cy="-250" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="150" cy="-450" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="150" cy="-650" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="150" cy="-950" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.1" />
+</circle>
+<circle cx="150" cy="-1250" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.1" />
+</circle>
+<circle cx="150" cy="-1350" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.1" />
+</circle>
+<circle cx="250" cy="-50" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="250" cy="-350" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="250" cy="-450" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="250" cy="-850" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="250" cy="-950" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1" />
+</circle>
+<circle cx="250" cy="-1250" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1" />
+</circle>
+<circle cx="350" cy="-450" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="350" cy="-550" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="350" cy="-650" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="350" cy="-950" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1" />
+</circle>
+<circle cx="350" cy="-1050" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1" />
+</circle>
+<circle cx="350" cy="-1150" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1" />
+</circle>
+<circle cx="450" cy="-50" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="450" cy="-450" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="450" cy="-550" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="450" cy="-750" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="450" cy="-850" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="450" cy="-1250" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1" />
+</circle>
+<circle cx="450" cy="-1550" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1" />
+</circle>
+<circle cx="550" cy="-250" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="550" cy="-350" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="550" cy="-650" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="550" cy="-1050" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1" />
+</circle>
+<circle cx="550" cy="-1350" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1" />
+</circle>
+<circle cx="550" cy="-1550" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1" />
+</circle>
+<circle cx="650" cy="-150" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="650" cy="-350" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="650" cy="-850" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="650" cy="-950" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1" />
+</circle>
+<circle cx="650" cy="-1050" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1" />
+</circle>
+<circle cx="650" cy="-1350" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1" />
+</circle>
+<circle cx="750" cy="-50" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="750" cy="-550" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="750" cy="-950" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1" />
+</circle>
+<circle cx="750" cy="-1050" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1" />
+</circle>
+<circle cx="750" cy="-1150" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1" />
+</circle>
+<circle cx="750" cy="-1550" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1" />
+</circle>
+<circle cx="850" cy="-250" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="850" cy="-450" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="850" cy="-550" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="850" cy="-750" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="950" cy="-50" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="950" cy="-150" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="950" cy="-1050" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1" />
+</circle>
+<circle cx="950" cy="-1150" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1" />
+</circle>
+<circle cx="950" cy="-1250" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1" />
+</circle>
+<circle cx="950" cy="-1550" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1" />
+</circle>
+<circle cx="1050" cy="-250" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1050" cy="-750" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1050" cy="-850" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1050" cy="-1050" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1" />
+</circle>
+<circle cx="1050" cy="-1450" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.8;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1" />
+</circle>
+<circle cx="1050" cy="-1550" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1" />
+</circle>
+<circle cx="1150" cy="-250" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1150" cy="-450" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1150" cy="-550" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1150" cy="-650" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1150" cy="-950" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1150" cy="-1050" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1150" cy="-1450" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.8;0.8;0.8;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1250" cy="-50" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1250" cy="-250" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1250" cy="-650" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.8">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1250" cy="-1550" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.8;0.8;0.8;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1350" cy="-50" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1350" cy="-150" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1350" cy="-950" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1350" cy="-1050" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1350" cy="-1150" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1350" cy="-1350" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1450" cy="-350" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1450" cy="-550" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1450" cy="-650" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1450" cy="-750" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1450" cy="-850" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1450" cy="-1050" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1450" cy="-1150" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1450" cy="-1550" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1550" cy="-150" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1550" cy="-550" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="1550" cy="-1050" r="30" stroke="black" stroke-width="0" fill="#7b8594" opacity="0.4">
+<animate repeatCount="indefinite" attributeName="opacity" dur="6.720000000000001s" values="0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1" />
+</circle>
+<circle cx="250" cy="-1450" r="45" stroke="#ff5447" stroke-width="10" fill="none">
+<animate repeatCount="indefinite" attributeName="visibility" dur="6.720000000000001s" values="visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;hidden" />
+</circle>
+<circle cx="750" cy="-250" r="30" stroke="black" stroke-width="0" fill="#ff5447">
+<animate repeatCount="indefinite" attributeName="cy" dur="6.720000000000001s" values="-250;-350;-450;-450;-550;-650;-750;-750;-850;-950;-950;-1050;-1150;-1150;-1150;-1250;-1250;-1350;-1450;-1450;-1450;-1450;-1450;-1450;" />
+<animate repeatCount="indefinite" attributeName="cx" dur="6.720000000000001s" values="750;750;750;650;650;650;650;550;550;550;450;450;450;550;650;650;750;750;750;650;550;450;350;250;" />
+<animate repeatCount="indefinite" attributeName="visibility" dur="6.720000000000001s" values="visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;hidden" />
+</circle>
+</svg>
